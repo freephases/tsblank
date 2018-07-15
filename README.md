@@ -1,0 +1,2 @@
+# tsblank
+Blank typescript project
